@@ -1,5 +1,7 @@
 # Upgrade Planner
 
+**This repository is archived.** This project now lives in [isochronous/ONI-Mods](https://github.com/isochronous/ONI-Mods/tree/main/mods/upgrade-planner), with its full history; work and new releases continue there. The releases published here stay available.
+
 An [Oxygen Not Included](https://www.klei.com/games/oxygen-not-included) mod: a tool that marks buildings in a box-dragged area to be rebuilt. Every sandstone tile, ladder and pipe rebuilt in granite in one drag, or one type replaced with another: plain pipes to insulated, insulated back to plain, or any modded pipe the game lets you build over the old one.
 
 Status: **first version, in use**.
